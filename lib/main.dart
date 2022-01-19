@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:logincubitwithdio/cubit/auth_cubit.dart';
-import 'package:logincubitwithdio/view/pages/login_page.dart';
+import 'package:get_storage/get_storage.dart';
+import 'cubit/auth_cubit.dart';
+import 'views/pages/splash_page.dart';
 
-
-
-void main() {
-  
+void main() async {
+  await GetStorage.init();
   runApp(const MyApp());
 }
 
@@ -23,7 +22,8 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const LoginPage(),
+        // home: const LoginPage(),
+        home: const SplashPage(),
       ),
     );
   }

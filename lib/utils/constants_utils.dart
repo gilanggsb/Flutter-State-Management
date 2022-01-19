@@ -1,0 +1,1 @@
+const String localUser = 'user_saved';

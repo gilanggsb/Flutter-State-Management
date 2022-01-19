@@ -1,6 +1,6 @@
 # logincubitwithdio
 
-A new Flutter project.
+learn cubit state management with getStorage package to store user data in local storage
 
 ## Getting Started
 

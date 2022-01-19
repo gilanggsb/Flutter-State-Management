@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:logincubitwithdio/model/user_model.dart';
+import '../model/user_model.dart';
 
 class AuthService {
   AuthService._privateConstructor();
