@@ -1,6 +1,6 @@
 # freezelogin
 
-learn bloc state management with freezed package
+Learn bloc state management with freezed package
 
 ## Getting Started
 
