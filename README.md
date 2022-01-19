@@ -3,16 +3,14 @@ learn state management with flutter
 <br/>
 <br/>
 **There's 4 branch in this repository :**
-  1. Cubit 
+  1. Cubit (main)
   2. Bloc 
   3. Provider 
   4. GetX
->>>>>>> 1c212c537d8166020bd3fa8800d12e451bfcded9
 
-<<<<<<< HEAD
 # logincubitwithdio
 
-
+Learn cubit state management with getStorage package to store user data in local storage
 
 ## Getting Started
 
@@ -26,4 +24,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
