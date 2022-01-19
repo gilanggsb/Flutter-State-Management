@@ -1,6 +1,6 @@
 # freezelogin
 
-A new Flutter project.
+learn bloc state management with freezed package
 
 ## Getting Started
 
